@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sta-converter"
+version = "0.1.0"
+description = ""
+authors = ["Mariusz Smenżyk <mariusz@bravelab.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mt940 = "^0.6.0"
+click = "^8.1.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+sta_converter = "sta_converter.converter:cli"
