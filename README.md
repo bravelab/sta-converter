@@ -72,3 +72,4 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed by Mariusz Smenżyk. You can reach out to me at mariusz@bravelab.io.
+# sta-converter
