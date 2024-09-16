@@ -1,9 +1,13 @@
 [tool.poetry]
 name = "sta-converter"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "A CLI tool for converting .sta (MT940) files to CSV and merging CSV files."
 authors = ["Mariusz Smenżyk <mariusz@bravelab.io>"]
 readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/bravelab/sta-converter"
+repository = "https://github.com/bravelab/sta-converter"
+keywords = ["mt940", "sta", "bank statement", "converter", "csv"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
