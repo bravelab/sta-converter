@@ -44,14 +44,9 @@ Once installed, you can use the `sta-converter` CLI tool to convert `.sta` files
 To convert `.sta` files into CSV files, use the following command:
 
 ```bash
-poetry run sta_converter <input_dir> <output_dir> <merged_output_file>
+poetry run sta_converter <input_dir> <merged_output_file>
 ```
 
-### Example
-
-```bash
-poetry run sta_converter input output merged_output.csv
-```
 
 - **Install Dependencies**:
 
@@ -62,7 +57,7 @@ poetry run sta_converter input output merged_output.csv
 - **Run the CLI**:
 
   ```bash
-  poetry run sta_converter <input_dir> <output_dir> <merged_output_file>
+  poetry run sta_converter <input_dir> <merged_output_file>
   ```
 
 ## License

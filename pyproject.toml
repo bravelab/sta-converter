@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sta-converter"
-version = "0.1.1"
+version = "0.1.2"
 description = "A CLI tool for converting .sta (MT940) files to CSV and merging CSV files."
 authors = ["Mariusz Smenżyk <mariusz@bravelab.io>"]
 readme = "README.md"
