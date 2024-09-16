@@ -25,7 +25,7 @@
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sta-converter.git
+   git clone https://github.com/bravelab/sta-converter.git
    cd sta-converter
    ```
 
